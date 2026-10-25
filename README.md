@@ -29,6 +29,7 @@ A curated list of awesome DataOps tools.
     - [SQL Query Engine](#sql-query-engine)
 - [Resources](#resources)
     - [Books](#books)
+    - [Guides](#guides)
     - [Other Lists](#other-lists)
     - [Slack](#slack)
 - [Contributing](#contributing)
@@ -283,6 +284,12 @@ Where to discover new tools and discuss about existing ones.
 * [Learning Spark: Lightning-Fast Data Analytics](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/) (O'Reilly)
 * [Spark in Action](https://www.oreilly.com/library/view/spark-in-action/9781617295522/) (O'Reilly)
 * [Spark: The Definitive Guide](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/) (O'Reilly)
+
+## Guides
+
+Guides and references on DataOps practices.
+
+* [CheatGrid DataOps Cheat Sheet](https://www.cheatgrid.com/data-engineering/0703-dataops-cheat-sheet) - A free reference on DataOps principles, CI/CD for data pipelines, testing, observability and data contracts.
 
 ## Other Lists
 
